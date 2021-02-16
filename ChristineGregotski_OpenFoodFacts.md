@@ -15,13 +15,9 @@ I wish to contribute to this project by fixing run-time errors such as "software
 https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 
 
-**Building**
+## Building
 -Fork the repository from the above link and clone it in Android Studio
--
-
-**Running**
--
--
+-Follow the directions in Setup Guidelines under "Installation"
 
 ## Required Resources
 -Kotlin
