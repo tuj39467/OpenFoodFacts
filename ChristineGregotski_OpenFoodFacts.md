@@ -19,6 +19,11 @@ https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 - Fork the repository from the above link and clone it in Android Studio
 - Follow the directions in Setup Guidelines under "Installation"
 
+**Running**
+- Configure the gradle to run in Kotlin
+- Deploy APK from app bundle when configuring
+- Run the main class
+
 ***Required Resources***
 - Kotlin
 - Java
