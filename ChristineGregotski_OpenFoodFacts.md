@@ -16,7 +16,7 @@ https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 
 
 **Building**
--
+-Fork the repository from the above link and clone it in Android Studio
 -
 
 **Running**
@@ -26,4 +26,4 @@ https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 ## Required Resources
 -Kotlin
 -Java
--Mobile App. Development in Android Studio or iOS
+-Android Studio
