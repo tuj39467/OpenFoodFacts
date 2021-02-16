@@ -24,6 +24,6 @@ https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 -
 
 ## Required Resources
--_Kotlin
--_Java
--_Mobile App. Development in Android Studio or iOS
+-Kotlin
+-Java
+-Mobile App. Development in Android Studio or iOS
