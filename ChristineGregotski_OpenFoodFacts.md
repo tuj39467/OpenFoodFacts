@@ -11,15 +11,15 @@ This project relates to the educational goals of Software Design (3296) because 
 ## Conceptual Design
 I wish to contribute to this project by fixing run-time errors such as "software errors" when trying to generate graphs representing food data. I would like to modify the design of the overall website because it seems dull and overwhelming by all of the compressed text, making it less user-friendly and confusing. I have noticed that the purpose of the website seems to be posted in all of the tabs, so I would suggest creating a separate "About" tab to locate this information. Furthermore, I believe that the "Discover" page should be the main page because it appears more straightforward in expressing the objective of the database, instead of having the user's first impression of the database to be just an average database. Otherwise, it seems redundant seeing the same text in the left column and bottom of the website. It resembles craigslist.com in how all of the images are displayed, which may give people a wrong impression of the purpose of the website. Overall, my main objective for designing this database is to make it appear minimalistic and simple. Additionally, monitoring what people upload is important because I found an unrelated post that was not food related, which can be the disadvantage of letting everyone edit and upload content. 
 
-## Background 
+### Background 
 https://github.com/openfoodfacts/openfoodfacts-androidapp.git
 
 
-## Building
--Fork the repository from the above link and clone it in Android Studio
--Follow the directions in Setup Guidelines under "Installation"
+**Building**
+- Fork the repository from the above link and clone it in Android Studio
+- Follow the directions in Setup Guidelines under "Installation"
 
-## Required Resources
--Kotlin
--Java
--Android Studio
+***Required Resources***
+- Kotlin
+- Java
+- Android Studio
